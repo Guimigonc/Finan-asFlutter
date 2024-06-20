@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "767880661683",
+    "project_id": "financas-flutter-ad604",
+    "storage_bucket": "financas-flutter-ad604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:767880661683:android:603670110e69814bce3ec6",
+        "android_client_info": {
+          "package_name": "com.example.financasflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzf9AGBrTpjdtp9IgGDfDP_ORsIHDg2Xg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

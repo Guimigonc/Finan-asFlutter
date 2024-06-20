@@ -1,0 +1,52 @@
+{
+  "name": "financas_pessoais",
+  "version": "1.0.0",
+  "description": "A new Flutter project.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "ansi-regex": "^6.0.1",
+    "ansi-styles": "^6.2.1",
+    "balanced-match": "^3.0.1",
+    "brace-expansion": "^4.0.0",
+    "color-convert": "^2.0.1",
+    "color-name": "^2.0.0",
+    "cross-spawn": "^7.0.3",
+    "eastasianwidth": "^0.3.0",
+    "emoji-regex": "^10.3.0",
+    "foreground-child": "^3.2.1",
+    "get-east-asian-width": "^1.2.0",
+    "glob": "^10.4.1",
+    "inflight": "^1.0.6",
+    "is-fullwidth-code-point": "^5.0.0",
+    "isexe": "^3.1.1",
+    "jackspeak": "^3.4.0",
+    "lru-cache": "^10.2.2",
+    "minimatch": "^9.0.4",
+    "minipass": "^7.1.2",
+    "once": "^1.4.0",
+    "path-key": "^4.0.0",
+    "path-scurry": "^1.11.1",
+    "rimraf": "^5.0.7",
+    "shebang-command": "^2.0.0",
+    "shebang-regex": "^4.0.0",
+    "signal-exit": "^4.1.0",
+    "string-width": "^7.1.0",
+    "string-width-cjs": "^5.1.1",
+    "strip-ansi": "^7.1.0",
+    "strip-ansi-cjs": "^8.0.0",
+    "which": "^4.0.0",
+    "wrap-ansi": "^9.0.0",
+    "wrap-ansi-cjs": "^8.0.0",
+    "wrappy": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
